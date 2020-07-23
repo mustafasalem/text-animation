@@ -1,0 +1,39 @@
+body{
+
+background-color: black;
+
+}
+p{
+    font-size: large;
+    margin: 25%;
+    color: aqua;
+
+
+animation-name: ex;
+animation-duration: 4s;
+
+}
+
+
+
+@keyframes ex{
+
+
+0%{opacity: 0;}
+
+
+50%{opacity: 0.5; font-size: xx-large}
+
+
+100%{opacity: 0.8; font-size: x-large;}
+
+
+
+
+
+
+}
+
+
+
+
